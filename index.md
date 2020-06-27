@@ -10,3 +10,7 @@ Sein Nachfolger wurde Max Euwe. Alejchin konnte 1937 seinen Titel zurueckgewinne
 * WM Kampf gegen Euwe verloren
 * Rueckkampf gegen Euwe gewonnen
 * Tod.
+
+Famous:
+> Chess is a test for
+> your character.
