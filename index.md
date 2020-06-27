@@ -14,3 +14,7 @@ Sein Nachfolger wurde Max Euwe. Alejchin konnte 1937 seinen Titel zurueckgewinne
 Famous:
 > Chess is a test for
 > your character.
+
+<img src="https://de.wikipedia.org/wiki/Datei:AlexanderAlekhine.jpg"/>
+
+
