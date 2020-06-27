@@ -1,6 +1,5 @@
 Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
 
-# Oberste Überschrift
+# Lothars Titelzeile
 
-## Kleinere Überschrift
 
